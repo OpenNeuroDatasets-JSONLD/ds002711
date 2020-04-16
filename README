@@ -11,8 +11,8 @@ Folders are organised in subject number (e.g. sub-01). Within each folder there 
           isotropic voxels, image size 512x512x280
 
     - Flair T2-weighted structural scan
-	TR 10 s, TE 118.608 ms, flip angle 160o, 3 mm3 
-	isotropic voxels, 256 image size 512x512x36
+	    TR 10 s, TE 118.608 ms, flip angle 160o, 3 mm3 
+	    isotropic voxels, 256 image size 512x512x36
 
 2) func 
 
