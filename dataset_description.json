@@ -1,0 +1,19 @@
+{
+    "Name": "Smiley",
+    "BIDSVersion": "1.2.2",
+    "Authors": [
+        "Christos Chatzichristos",
+        "Manuel Morante",
+        "Nikos Andreadis",
+        "Eleftherios Kofidis",
+        "Yiannis Kopsinis",
+        "Sergios Theodoridis"
+    ],
+    "Funding": [
+        "European Union's H2020 Framework Programme (H2020-MSCA-ITN-2014) under grant agreement No.~642685 MacSeNet."    ],
+    "ReferencesAndLinks": [
+        "Emojis influence autobiographical memory retrieval from reading words: An fMRI-based study, Plos One, 2020"
+    ],
+    "HowToAcknowledge": "If you use these data, please cite the appropriate manuscripts.",
+    "License": "CC0"
+}
