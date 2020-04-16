@@ -10,7 +10,7 @@ Folders are organised in subject number (e.g. sub-01). Within each folder there 
           TR 6.8 ms, TE 2.6 ms, flip angle 10o, 1.2 mm3 
           isotropic voxels, image size 512x512x280
 
-- Flair T2-weighted structural scan
+    - Flair T2-weighted structural scan
 	TR 10 s, TE 118.608 ms, flip angle 160o, 3 mm3 
 	isotropic voxels, 256 image size 512x512x36
 
@@ -33,5 +33,4 @@ HS	Happy word- Sad emoji events
 SS	Sad word- Sad emoji events
 SH	Sad word- Happy emoji events
 PS	Pseudowords
-
 
